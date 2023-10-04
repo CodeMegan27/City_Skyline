@@ -37,10 +37,10 @@ To run City Skyline locally, follow these steps:
 
 3. Open the index.html file in your web browser.
 
-#Usage
+##Usage
 Simply open the index.html file in your web browser to view the City Skyline.
 
-#Customization
+##Customization
 You can customize the appearance of the skyline by modifying the CSS variables in the styles.css file. Here are some of the variables you can adjust:
 
 --building-color1: Color of background buildings.
@@ -53,5 +53,5 @@ You can customize the appearance of the skyline by modifying the CSS variables i
 --window-color4: Color of windows in background buildings.
 Feel free to experiment and create your own unique cityscape!
 
-#Contributing
+##Contributing
 Contributions are welcome! If you have any ideas for improvements or find any issues, please open an issue or submit a pull request.
