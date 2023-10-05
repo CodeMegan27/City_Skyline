@@ -14,7 +14,7 @@ City Skyline is a simple web page that displays a city skyline using HTML and CS
 
 ## Demo
 
-You can view a live demo of City Skyline [here](https://github.com/CodeMegan27/City_Skyline.git).
+You can view a live demo of City Skyline [here](https://stirring-heliotrope-b546db.netlify.app/).
 
 ![City Skyline Day](Day.png)
 ![City Skyline Night](Night.png)
